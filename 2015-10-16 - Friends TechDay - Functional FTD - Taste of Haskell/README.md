@@ -3,6 +3,6 @@
 
 [Friends TechDay - Functional FTD](http://friendstechday.com/2015/10/16/functional-ftd/)
 
-[taste-of-haskell.pdf](__.pdf)
+[taste-of-haskell.pptx](taste-of-haskell.pptx)
 
 
